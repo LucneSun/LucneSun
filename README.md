@@ -4,7 +4,7 @@
 
 ## I'm looking for opportunities in working with a team and a place where i can explore my skills and develop new ones! 
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=lucneSun&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucneSun&show_icons=true&theme=transparent)
 [![TopLanguages](https://github-readme-stats.vercel.app/api/top-langs/?username=LucneSun&theme=blue-green)]
 
 # Skills
