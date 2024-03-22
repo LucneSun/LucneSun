@@ -3,8 +3,8 @@
 ## Hello my name is João Lucas, i live in Brazil! I'm studying Technologist in System Analysis. I'm also a hobbyst game dev and 3d generalist. 
 
 ## I'm looking for opportunities in working with a team and a place where i can explore my skills and develop new ones! 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=lucneSun&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=lucneSun&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![TopLanguages](https://github-readme-stats.vercel.app/api/top-langs/?username=LucneSun&theme=blue-green)]
 
 # Skills
