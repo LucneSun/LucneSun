@@ -27,7 +27,3 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100057104982146)
 [![LinkTree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/lucneSun)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-lucas-de-ara%C3%BAjo-silva-lucnesunn/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-
-Thank you for taking the time to read this sign. This sign loves you.
-
-<img src="ezgif.com-animated-gif-maker.gif" alt="illustration as a gif made by me with a cute red animal sleeping">
