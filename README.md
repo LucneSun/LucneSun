@@ -1,5 +1,3 @@
-# Presentation
-
 ## Hello my name is João Lucas, i live in Brazil! I'm studying Technologist in System Analysis. I'm also a hobbyst game dev and 3d generalist. 
 
 ## I'm looking for opportunities in working with a team and a place where i can explore my skills and develop new ones! 
