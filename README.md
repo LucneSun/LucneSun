@@ -15,9 +15,7 @@
 <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/godot_button_icon_151956.png" width="90px" alt="Godot">
 
 
-# Contact
-uid=jlukee711&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=jlukee711&redirect=true)
-
+# Contacts
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucne41/)
 [![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://lucnesun.blogspot.com/)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@lucneSun117?si=gV7NEZenKYt-72Uw)
