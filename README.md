@@ -15,8 +15,8 @@
 <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/godot_button_icon_151956.png" width="90px" alt="Godot">
 
 
-# Social
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=jlukee711&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=jlukee711&redirect=true)
+# Contact
+uid=jlukee711&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=jlukee711&redirect=true)
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucne41/)
 [![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://lucnesun.blogspot.com/)
