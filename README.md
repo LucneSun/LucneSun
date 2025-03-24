@@ -1,4 +1,4 @@
-## Sup My name is João Lucas. I'm finishing my studies ad i am a hobbyst game dev and 3d generalist.  
+## Sup My name is João Lucas. I'm finishing my studies and i am a hobbyst game dev and 3d generalist.  
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucneSun&show_icons=true&theme=transparent)
 [![TopLanguages](https://github-readme-stats.vercel.app/api/top-langs/?username=LucneSun&theme=blue-green)]
